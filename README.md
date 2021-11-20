@@ -19,7 +19,7 @@ Dice App
   * HTML
   * CSS
   * JAVASCRIPT
-  * Bulma
+  * React
 
 ### Prerequisites
 
