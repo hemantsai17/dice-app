@@ -6,7 +6,7 @@ Dice App
   A simple Dice App made with React.
     <br />
     <br />
-     <a href="https://pokedex.stevenhansel.com">View Demo</a>
+     <a href="https://hemant-sai-dice.netlify.app/">View Demo</a>
      </p>
 </p>
  
